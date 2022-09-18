@@ -12,7 +12,7 @@
   * {
     margin: 0px;
     font-family: Arvo;
-    /* border: 1px solid gray; */
+     /* border: 1px solid gray;  */
   }
   
   /* Buttons */
@@ -153,6 +153,11 @@
     height: auto;
   }
   
+  .cat {
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: fill;
+  }
   /* text - colors */
   .dark-background .hero-logo {
     font-size: 24px;
